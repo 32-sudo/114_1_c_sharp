@@ -1,0 +1,10 @@
+C:\Users\m303\Desktop\新增資料夾\114_1_c_sharp\114_09_17\TUTOrial_2_2\TUTOrial_2_2\obj\Debug\TUTOrial_2_2.csproj.AssemblyReference.cache
+C:\Users\m303\Desktop\新增資料夾\114_1_c_sharp\114_09_17\TUTOrial_2_2\TUTOrial_2_2\obj\Debug\TUTOrial_2_2.Form1.resources
+C:\Users\m303\Desktop\新增資料夾\114_1_c_sharp\114_09_17\TUTOrial_2_2\TUTOrial_2_2\obj\Debug\TUTOrial_2_2.Properties.Resources.resources
+C:\Users\m303\Desktop\新增資料夾\114_1_c_sharp\114_09_17\TUTOrial_2_2\TUTOrial_2_2\obj\Debug\TUTOrial_2_2.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\新增資料夾\114_1_c_sharp\114_09_17\TUTOrial_2_2\TUTOrial_2_2\obj\Debug\TUTOrial_2_2.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\新增資料夾\114_1_c_sharp\114_09_17\TUTOrial_2_2\TUTOrial_2_2\bin\Debug\TUTOrial_2_2.exe.config
+C:\Users\m303\Desktop\新增資料夾\114_1_c_sharp\114_09_17\TUTOrial_2_2\TUTOrial_2_2\bin\Debug\TUTOrial_2_2.exe
+C:\Users\m303\Desktop\新增資料夾\114_1_c_sharp\114_09_17\TUTOrial_2_2\TUTOrial_2_2\bin\Debug\TUTOrial_2_2.pdb
+C:\Users\m303\Desktop\新增資料夾\114_1_c_sharp\114_09_17\TUTOrial_2_2\TUTOrial_2_2\obj\Debug\TUTOrial_2_2.exe
+C:\Users\m303\Desktop\新增資料夾\114_1_c_sharp\114_09_17\TUTOrial_2_2\TUTOrial_2_2\obj\Debug\TUTOrial_2_2.pdb
