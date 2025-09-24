@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Net.Mime.MediaTypeNames;
 
 namespace Tutorial_2_3
 {
@@ -15,6 +16,33 @@ namespace Tutorial_2_3
         public Form1()
         {
             InitializeComponent();
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+          
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            TRASLATIONLABEL.Text = "Buenos días";
+        }
+
+        private void Italianlabel_Click(object sender, EventArgs e)
+        {
+            TRASLATIONLABEL.Text = "Buongiorno";
+
+        }
+
+        private void Germanlabel_Click(object sender, EventArgs e)
+        {
+            TRASLATIONLABEL.Text = "Guten Morgen";
+
+        }
+
+        private void Germanlabel_Layout(object sender, LayoutEventArgs e)
+        {
+         
         }
     }
 }
