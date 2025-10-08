@@ -22,7 +22,7 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Tutorial3_1\\Form1.cs",
               "ToolTip": "C:\\Users\\m303\\Desktop\\114_1_c_sharp\\114_10_01\\Tutorial3_1\\Tutorial3_1\\Form1.cs",
               "RelativeToolTip": "Tutorial3_1\\Form1.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwDMAAABCAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAwDMAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-01T03:10:59.838Z",
               "EditorCaption": ""
@@ -48,10 +48,6 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-01T03:09:55.764Z",
               "EditorCaption": " [\u8A2D\u8A08]"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
