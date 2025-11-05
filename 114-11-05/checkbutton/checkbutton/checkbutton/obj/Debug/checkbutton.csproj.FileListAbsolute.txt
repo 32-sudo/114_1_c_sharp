@@ -1,0 +1,10 @@
+C:\Users\m303\Desktop\114_1_c_sharp\114-11-05\checkbutton\checkbutton\checkbutton\bin\Debug\checkbutton.exe.config
+C:\Users\m303\Desktop\114_1_c_sharp\114-11-05\checkbutton\checkbutton\checkbutton\bin\Debug\checkbutton.exe
+C:\Users\m303\Desktop\114_1_c_sharp\114-11-05\checkbutton\checkbutton\checkbutton\bin\Debug\checkbutton.pdb
+C:\Users\m303\Desktop\114_1_c_sharp\114-11-05\checkbutton\checkbutton\checkbutton\obj\Debug\checkbutton.csproj.AssemblyReference.cache
+C:\Users\m303\Desktop\114_1_c_sharp\114-11-05\checkbutton\checkbutton\checkbutton\obj\Debug\checkbutton.Form1.resources
+C:\Users\m303\Desktop\114_1_c_sharp\114-11-05\checkbutton\checkbutton\checkbutton\obj\Debug\checkbutton.Properties.Resources.resources
+C:\Users\m303\Desktop\114_1_c_sharp\114-11-05\checkbutton\checkbutton\checkbutton\obj\Debug\checkbutton.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\114_1_c_sharp\114-11-05\checkbutton\checkbutton\checkbutton\obj\Debug\checkbutton.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\114_1_c_sharp\114-11-05\checkbutton\checkbutton\checkbutton\obj\Debug\checkbutton.exe
+C:\Users\m303\Desktop\114_1_c_sharp\114-11-05\checkbutton\checkbutton\checkbutton\obj\Debug\checkbutton.pdb

@@ -1,0 +1,17 @@
+C:\Users\m303\Desktop\114_1_c_sharp\114-11-05\新增資料夾\Radiobutton\Radiobutton\bin\Debug\net8.0-windows\Radiobutton.exe
+C:\Users\m303\Desktop\114_1_c_sharp\114-11-05\新增資料夾\Radiobutton\Radiobutton\bin\Debug\net8.0-windows\Radiobutton.deps.json
+C:\Users\m303\Desktop\114_1_c_sharp\114-11-05\新增資料夾\Radiobutton\Radiobutton\bin\Debug\net8.0-windows\Radiobutton.runtimeconfig.json
+C:\Users\m303\Desktop\114_1_c_sharp\114-11-05\新增資料夾\Radiobutton\Radiobutton\bin\Debug\net8.0-windows\Radiobutton.dll
+C:\Users\m303\Desktop\114_1_c_sharp\114-11-05\新增資料夾\Radiobutton\Radiobutton\bin\Debug\net8.0-windows\Radiobutton.pdb
+C:\Users\m303\Desktop\114_1_c_sharp\114-11-05\新增資料夾\Radiobutton\Radiobutton\obj\Debug\net8.0-windows\Radiobutton.Form1.resources
+C:\Users\m303\Desktop\114_1_c_sharp\114-11-05\新增資料夾\Radiobutton\Radiobutton\obj\Debug\net8.0-windows\Radiobutton.csproj.GenerateResource.cache
+C:\Users\m303\Desktop\114_1_c_sharp\114-11-05\新增資料夾\Radiobutton\Radiobutton\obj\Debug\net8.0-windows\Radiobutton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m303\Desktop\114_1_c_sharp\114-11-05\新增資料夾\Radiobutton\Radiobutton\obj\Debug\net8.0-windows\Radiobutton.AssemblyInfoInputs.cache
+C:\Users\m303\Desktop\114_1_c_sharp\114-11-05\新增資料夾\Radiobutton\Radiobutton\obj\Debug\net8.0-windows\Radiobutton.AssemblyInfo.cs
+C:\Users\m303\Desktop\114_1_c_sharp\114-11-05\新增資料夾\Radiobutton\Radiobutton\obj\Debug\net8.0-windows\Radiobutton.csproj.CoreCompileInputs.cache
+C:\Users\m303\Desktop\114_1_c_sharp\114-11-05\新增資料夾\Radiobutton\Radiobutton\obj\Debug\net8.0-windows\Radiobutton.sourcelink.json
+C:\Users\m303\Desktop\114_1_c_sharp\114-11-05\新增資料夾\Radiobutton\Radiobutton\obj\Debug\net8.0-windows\Radiobutton.dll
+C:\Users\m303\Desktop\114_1_c_sharp\114-11-05\新增資料夾\Radiobutton\Radiobutton\obj\Debug\net8.0-windows\refint\Radiobutton.dll
+C:\Users\m303\Desktop\114_1_c_sharp\114-11-05\新增資料夾\Radiobutton\Radiobutton\obj\Debug\net8.0-windows\Radiobutton.pdb
+C:\Users\m303\Desktop\114_1_c_sharp\114-11-05\新增資料夾\Radiobutton\Radiobutton\obj\Debug\net8.0-windows\Radiobutton.genruntimeconfig.cache
+C:\Users\m303\Desktop\114_1_c_sharp\114-11-05\新增資料夾\Radiobutton\Radiobutton\obj\Debug\net8.0-windows\ref\Radiobutton.dll
